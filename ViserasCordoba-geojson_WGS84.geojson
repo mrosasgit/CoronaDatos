@@ -1,4 +1,4 @@
-{"type":"FeatureCollection","features": [
+{"type": "FeatureCollection","features": [
 {"type":"Feature","properties":{"CANTIDAD":"57","MUNICIPIO":"Aguilar (Córdoba)"},"geometry":{"type":"Point","coordinates":[-4.6566596, 37.5138455]}},
 {"type":"Feature","properties":{"CANTIDAD":"6","MUNICIPIO":"Antequera (Málaga)"},"geometry":{"type":"Point","coordinates":[-4.5593676, 37.020001]}},
 {"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Badajoz  (Extremadura)"},"geometry":{"type":"Point","coordinates":[-6.9706535, 38.8794495]}},
@@ -6,7 +6,7 @@
 {"type":"Feature","properties":{"CANTIDAD":"15","MUNICIPIO":"Cáceres (Extremadura)"},"geometry":{"type":"Point","coordinates":[-6.3724247, 39.4752765]}},
 {"type":"Feature","properties":{"CANTIDAD":"3","MUNICIPIO":"Cañada Rosal (Sevilla)"},"geometry":{"type":"Point","coordinates":[-5.2111132, 37.5964819]}},
 {"type":"Feature","properties":{"CANTIDAD":"3","MUNICIPIO":"Cerro Perea (Sevilla)"},"geometry":{"type":"Point","coordinates":[-4.983638, 37.5894106]}},
-{"type":"Feature","properties":{"CANTIDAD":"314","MUNICIPIO":"Córdoba (Córdoba)"},"geometry":{"type":"Point","coordinates":[-64.1887761, -31.42008329999999]}},
+{"type":"Feature","properties":{"CANTIDAD":"314","MUNICIPIO":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.7793835, 37.8881751]}},
 {"type":"Feature","properties":{"CANTIDAD":"12","MUNICIPIO":"Dos Torres (Córdoba)"},"geometry":{"type":"Point","coordinates":[-4.8974549, 38.44463349999999]}},
 {"type":"Feature","properties":{"CANTIDAD":"33","MUNICIPIO":"Ecija (Sevilla)"},"geometry":{"type":"Point","coordinates":[-5.0826742, 37.5414656]}},
 {"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"El Fontanar (Córdoba)"},"geometry":{"type":"Point","coordinates":[-4.8036332, 37.5579957]}},
@@ -33,5 +33,5 @@
 {"type":"Feature","properties":{"CANTIDAD":"307","MUNICIPIO":"Santaella (Córdoba)"},"geometry":{"type":"Point","coordinates":[-4.8429898, 37.5622053]}},
 {"type":"Feature","properties":{"CANTIDAD":"23","MUNICIPIO":"Sevilla (Sevilla)"},"geometry":{"type":"Point","coordinates":[-5.9844589, 37.3890924]}},
 {"type":"Feature","properties":{"CANTIDAD":"2","MUNICIPIO":"Villanueva de Córdoba (Córdoba)"},"geometry":{"type":"Point","coordinates":[-4.628506199999999, 38.3222465]}},
-{"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Zaragoza (Zaragoza)"},"geometry":{"type":"Point","coordinates":[-73.4118391, 41.5774465]}}
+{"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Zaragoza"},"geometry":{"type":"Point","coordinates":[-0.8890853, 41.6488226]}}
 ]}
