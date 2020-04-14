@@ -1,4 +1,4 @@
-{"type": "FeatureCollection","features": [
+{"type":"FeatureCollection","features": [
 {"type":"Feature","properties":{"CANTIDAD":"57","MUNICIPIO":"Aguilar (Córdoba)"},"geometry":{"type":"Point","coordinates":[-4.6566596, 37.5138455]}},
 {"type":"Feature","properties":{"CANTIDAD":"6","MUNICIPIO":"Antequera (Málaga)"},"geometry":{"type":"Point","coordinates":[-4.5593676, 37.020001]}},
 {"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Badajoz  (Extremadura)"},"geometry":{"type":"Point","coordinates":[-6.9706535, 38.8794495]}},
@@ -34,4 +34,4 @@
 {"type":"Feature","properties":{"CANTIDAD":"23","MUNICIPIO":"Sevilla (Sevilla)"},"geometry":{"type":"Point","coordinates":[-5.9844589, 37.3890924]}},
 {"type":"Feature","properties":{"CANTIDAD":"2","MUNICIPIO":"Villanueva de Córdoba (Córdoba)"},"geometry":{"type":"Point","coordinates":[-4.628506199999999, 38.3222465]}},
 {"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Zaragoza (Zaragoza)"},"geometry":{"type":"Point","coordinates":[-73.4118391, 41.5774465]}}
-}]
+]}
