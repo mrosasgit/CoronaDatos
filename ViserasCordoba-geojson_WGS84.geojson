@@ -1,4 +1,4 @@
-﻿{"type": "FeatureCollection","features": [
+{'type': 'FeatureCollection','features': [
 {'type':'Feature','properties':{'CANTIDAD':'53','MUNICIPIO':'Santaella  (Córdoba)'},'geometry':{'type':'Point','coordinates':[-4.838784125011446, 37.56266457311741]}},
 {'type':'Feature','properties':{'CANTIDAD':'11','MUNICIPIO':'Santaella  (Córdoba)'},'geometry':{'type':'Point','coordinates':[-4.838784125011446, 37.56266457311741]}},
 {'type':'Feature','properties':{'CANTIDAD':'25','MUNICIPIO':'La Guijarrosa (Córdoba)'},'geometry':{'type':'Point','coordinates':[-4.838784125011446, 37.56266457311741]}},
