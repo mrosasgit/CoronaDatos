@@ -34,4 +34,4 @@
 {"type":"Feature","properties":{"CANTIDAD":"23","MUNICIPIO":"Sevilla","PROVINCIA":"Sevilla"},"geometry":{"type":"Point","coordinates":[-5.9844589, 37.3890924]}},
 {"type":"Feature","properties":{"CANTIDAD":"2","MUNICIPIO":"Villanueva de Córdoba","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.628506199999999, 38.3222465]}},
 {"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Zaragoza","PROVINCIA":"Zaragoza"},"geometry":{"type":"Point","coordinates":[-0.8890853, 41.6488226]}}
-], "title": "Viseras Entregadas Santaella", "update": "14/04/2020", "Total":"1426"}
+], "title": "#SantaellaDeVerdad - Entregas 1426 - Actualización: 14/04/2020", "update": "14/04/2020", "Total":"1426"}
